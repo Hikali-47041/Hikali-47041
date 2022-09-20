@@ -8,6 +8,6 @@
 ### lang
 - Japanese: △
 - English: △ x2
-- C: :thinking_face:
-- Java: :thinking_face: x2
+- C: :thinking:
+- Java: :thinking: x2
 - Shell Script: :woozy_face:
